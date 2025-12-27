@@ -1,3 +1,0 @@
-class Utilisateur(models.Model):
-    # your fields here
-    pass
